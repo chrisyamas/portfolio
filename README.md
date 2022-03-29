@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Christopher Yamas Portfolio
 
-Make it your own! 
+[Click here to visit the live site!](https://christopher-yamas-portfolio.netlify.app/)
