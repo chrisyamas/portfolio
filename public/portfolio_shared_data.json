@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Christopher Yamas",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/chrisyamas",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/chrisyamas/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Christopher-Image.jpg"
     },
     "skills": {
       "icons": [
